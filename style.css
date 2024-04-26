@@ -1,0 +1,63 @@
+/* Write some CSS below */
+.card-white{
+    background-color: beige;
+    border-radius: 5px;
+    box-shadow: 0px 10PX 20PX rgba(0,0,0,0.1);
+    padding: 40px;
+    width: 700px;
+    margin: 40px auto;
+    text-align: center;
+    font-family: "comic";}
+
+.Container{
+    width: 700px;
+    margin: 20px auto;
+}
+
+.img-circle{
+    border-radius: 50%;
+    height: 2002 px;
+    width: 200px;
+    object-fit: cover;}
+
+.btn-black{
+text-decoration: none;
+color: aliceblue;
+border-radius: 5px;
+background-color: black;
+font-family: "Roboto";
+padding: 15px 25px;}
+
+#introduction p {
+    margin-bottom: 30px;
+}
+
+#introduction {
+    font-family:"comic",serif ;
+    border-color:brown;
+    border-style:dotted;}
+
+
+#introduction h1 {
+    color:brown}
+
+.btn-black:hover {
+    background-color:brown;
+    opacity: 0.7;
+}
+.list-inline{
+    list-style: none;
+    padding-left: 0;
+}
+.list-inline li {
+    display:inline
+}
+
+.list-inline li i{
+    font-size: 60px;
+    color:black;
+    margin: 5px;
+}
+.list-inline li i:hover {
+    opacity:0.7 i 
+}
